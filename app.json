@@ -17,15 +17,15 @@
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
+            "description": "0c58f3e3fecefc4a9d8e5bcf6968a106",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "description": "23680771",
             "value": ""
         },
         "AUTH_USERS": {
-            "description": "Id of users that can use the bot, from @MissRose_bot by /id command",
+            "description": "8006114523",
             "value": ""
         }
     },
